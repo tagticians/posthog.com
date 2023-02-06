@@ -6,7 +6,7 @@ sidebar: Blog
 showTitle: true
 hideAnchor: true
 author: ["tim-glaser"]
-featuredImage: ../images/blog/posthog-ceo-diary-blog.png
+featuredImage: ../images/blog/k8s-sunset/posthog-bye-kubernetes.png
 featuredImageType: full
 category: PostHog news
 tags:
@@ -38,7 +38,6 @@ We also learned that the tools to do that automation just doesn't exist. We kept
 Despite our continued efforts to help customers and improve the experience, our small infrastructure team is spending an outsized amount of time supporting the 3.5% of users who haven't moved to PostHog Cloud or our open source Docker deployment.
 
 By not supporting Kubernetes, we will free up a lot of time to focus on our main infrastructure priorities, which are PostHog Cloud and the open source Docker Compose deployment. Ultimately, this will lead to a better experience for the vast majority of our users.
-
 
 ### What's next?
 
